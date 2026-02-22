@@ -1,0 +1,7 @@
+project_id = "xwuilfanuqgqlafnhjsr"
+
+[functions.register]
+verify_jwt = false
+
+[functions.seed-primary-admin]
+verify_jwt = false
